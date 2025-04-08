@@ -3,7 +3,7 @@
 ![My Face](https://i.imgur.com/7IIOka9.png)
 
 ### Dependencies 
-`pip install numpy opencv-python dlib imutils`
+`pip install -r .\requirements.txt`
 
 ### Run
 `python main.py`
